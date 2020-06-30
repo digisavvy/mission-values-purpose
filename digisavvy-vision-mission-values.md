@@ -1,5 +1,7 @@
 # DigiSavvy: Vission, Mission, Values, Critical Actions, and Purpose
 
+**Description** Here are our Vision, Mission, and Values. This, along with Critical Actions and Key Characteristics, give voice to what DigiSavvy ought to emulate. 
+
 ## Vision
 <sub><sup>What DigiSavvy aspires to...</sub></sup>
 
@@ -14,14 +16,6 @@ To Get Your Business Where It’s Growing.
 <sub><sup>This is our promise to the world; to our clients.</sub></sup> 
 
 We handle the small technical things for our clients, ensuring they reclaim their time and focus on doing the big picture things like growing their businesses and inspiring their communities.
-
-## Story Pitch
-<sub><sup>This is the story our clients are living when they reach out to us. They don’t reach out because things are peachy. Things are pretty fucky by the time they fill-out our intake form. </sub></sup>
-
-When the mission-critical tools and platforms a business relies on everyday fail to work, it creates losses of revenue, customers, and precious time.
-If business owners must spend time figuring out why their online stuff isn’t working, it takes time and energy away from growing their business’s success.
-
-DigiSavvy helps businesses by leveraging smart ideas, proven expertise, and effective technology that reclaim their time, sanity, and get them where they’re growing.
 
 ## Values
 <sub><sup>These are the values I want DigiSavvy to uphold as an organization. I want them to drive our decision making processes. We live these individually and as an organization.</sub></sup>
@@ -61,3 +55,13 @@ DigiSavvy helps businesses by leveraging smart ideas, proven expertise, and effe
 
 
 * We do the thing: Thoughtful actions on purpose. Be present; do_action. 
+
+
+## Story Pitch
+<sub><sup>This is the story our clients are living when they reach out to us. They don’t reach out because things are peachy. Things are pretty fucky by the time they fill-out our intake form. </sub></sup>
+
+When the mission-critical tools and platforms a business relies on everyday fail to work, it creates losses of revenue, customers, and precious time.
+If business owners must spend time figuring out why their online stuff isn’t working, it takes time and energy away from growing their business’s success.
+
+DigiSavvy helps businesses by leveraging smart ideas, proven expertise, and effective technology that reclaim their time, sanity, and get them where they’re growing.
+
