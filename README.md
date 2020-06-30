@@ -1,7 +1,9 @@
 
 Version: 1.0
+
 Author: Alex Vasquez
-For: DigiSavvy and our awesome clients
+
+For: DigiSavvy, our team, and our awesome clients.
 
 # About This Repository
 
