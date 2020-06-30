@@ -7,7 +7,7 @@ For: DigiSavvy, our team, and our awesome clients.
 
 # About This Repository
 
-This is our promise to the world and to our clients. As silly or bold as it is to make a global promise, that what this is. A promise. 
+This is our promise to the world and to our clients. As silly or bold as it is to make a global promise, that's all this is. A promise. 
 
 It's a promise to each person who works at DigiSavvy, as a colleague, employee, friend, and contractor. It's a promise to every business and founder who has trusted us past, present, and future.
 
