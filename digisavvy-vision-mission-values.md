@@ -2,6 +2,7 @@
 
 ## Vision
 <sub><sup>What DigiSavvy aspires to...</sub></sup>
+
 To instigate the potential and success of every business we work with so they can be a force for good in their community.
 
 ## Purpose
